@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "638520660204",
+    "firebase_url": "https://waterlevel-ad823-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "waterlevel-ad823",
+    "storage_bucket": "waterlevel-ad823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638520660204:android:5d1c7749f4ed1ad68315c9",
+        "android_client_info": {
+          "package_name": "com.example.waterlevel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638520660204-ds4qs44lq6g9miliehk802mun6bkj10v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXMb6LLucDJe-V09q8k6CKeQQH9DZq8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638520660204-ds4qs44lq6g9miliehk802mun6bkj10v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638520660204-oc66fsjl9lnekg1j9543mlkp01gm9462.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.waterlevel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
